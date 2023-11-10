@@ -3,7 +3,7 @@ import os
 import openai
 import streamlit as st
 from dotenv import load_dotenv
-from langchain.agents import AgentType, initialize_agent, load_tools
+from langchain.agents import AgentType, initialize_agent
 from langchain.chat_models import ChatOpenAI
 from langchain.tools import DuckDuckGoSearchRun, Tool
 

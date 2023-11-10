@@ -3,5 +3,4 @@ langchain
 openai
 watchdog
 python-dotenv
-google-search-results
 duckduckgo-search
